@@ -1,4 +1,4 @@
-<h1> Hello, I'm Jadson Souza, Web Veveloper </h1> <br>
+<h1> Hello, I'm Jadson Souza, Web Veveloper </h1> <br><br>
 
 <h3> Ferramentas e Tecnologias </h3>
 
@@ -10,7 +10,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"  width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="50" height="50" />
 
-<br>
+<br><br>
 
 <h3> Contatos </h3>
 
@@ -19,6 +19,7 @@
   <a href="https://instagram.com/jadson.souzza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato@jadsonsouza.19@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
+  <br><br>
   
   <div>
 <a href="https://github.com/seu-usuário-aqui">
