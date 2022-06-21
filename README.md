@@ -1,4 +1,4 @@
-<h1> Hello, I'm Jadson Souza, Web Veveloper </h1> <br>
+<h1> Hello, I'm Jadson Souza, Web Developer </h1> <br>
 
 <h3> Ferramentas e Tecnologias </h3>
 
