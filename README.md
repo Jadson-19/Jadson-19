@@ -1,4 +1,4 @@
-<h1> Hello, I'm Jadson Souza, Web Veveloper </h1> <br><br>
+<h1> Hello, I'm Jadson Souza, Web Veveloper </h1> <br>
 
 <h3> Ferramentas e Tecnologias </h3>
 
@@ -10,7 +10,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"  width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="50" height="50" />
 
-<br><br>
+<br>
 
 <h3> Contatos </h3>
 
